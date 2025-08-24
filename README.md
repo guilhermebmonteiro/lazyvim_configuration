@@ -11,6 +11,3 @@ Lista de configs que falta setar:
 - conseguir clicar na função e ser direcionado para ela
 - conseguir lidar com neogit da forma correta
 - colocar mais cores nas funções, como já funciona em javascript
-- line blame do git
-- adicionar autoclompetion
-- instalar no mac
