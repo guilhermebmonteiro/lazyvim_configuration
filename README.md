@@ -9,5 +9,5 @@ Lista de configs que falta setar:
 - terminal que consiga dividir tela
 - autosave que confio
 - conseguir clicar na função e ser direcionado para ela
-- conseguir lidar com neogit da forma correta
-- colocar mais cores nas funções, como já funciona em javascript
+- conseguir dar um zoom na tela
+- entender a forma correta de ver os erros
